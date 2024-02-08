@@ -2,7 +2,7 @@ sort = []
 bar = 0
 maxCalorie = 0
 
-with open("advent-day-1.txt", "r") as foo:
+with open("advent-2023-1.txt", "r") as foo:
     elfInput = foo.read()
 filteredInput = elfInput.splitlines()
 
